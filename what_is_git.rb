@@ -17,6 +17,4 @@ class WhatIsGit
 			puts message
 			gets.chomp.downcase
 		end
-	end
-
 end
