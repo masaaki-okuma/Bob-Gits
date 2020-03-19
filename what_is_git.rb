@@ -1,7 +1,7 @@
 require 'jcode'
 $KCODE='u'
 class WhatIsGit
-	def about(lang = 'en')
+	def about(lang = language)
 		puts "http://#{lang}.wikipedia.org/wiki/Git"
 	end
 
