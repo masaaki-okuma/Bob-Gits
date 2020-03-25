@@ -26,3 +26,5 @@ class WhatIsGit
 
 end
 #stash1
+#stash2
+
